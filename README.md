@@ -1,3 +1,3 @@
 # Object-Oriented-Programming
-Curso de Programação Orientada a Objetos.
+Curso de Programação Orientada a Objetos em c++.
 
